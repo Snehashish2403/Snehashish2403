@@ -6,3 +6,5 @@
 
 
 [![Snehashish's github stats](https://github-readme-stats.vercel.app/api?username=Snehashish2403)](https://github.com/Snehashish2403/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/Snehashish2403/count.svg)
